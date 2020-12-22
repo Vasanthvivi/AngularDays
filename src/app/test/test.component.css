@@ -1,0 +1,14 @@
+
+div{
+    background-color: violet;
+    padding: 2%;
+    margin-bottom:2%;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+p{
+    font-size:larger;
+    font-style: italic;
+    font-weight: 300;
+   
+}

@@ -1,0 +1,13 @@
+p{
+    font-size:larger;
+    font-style: italic;
+    font-weight: 300;
+   
+}
+
+div{
+    background-color: burlywood;
+    padding: 1%;
+    margin-bottom: 1%;
+    border-radius: 10%;
+}
